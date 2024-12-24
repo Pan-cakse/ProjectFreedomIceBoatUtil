@@ -1,0 +1,7 @@
+name: IceBoatingUtil
+version: '${project.version}'
+main: me.pancakse.iceboatingutil.IceBoatingUtil
+api-version: 1.21
+authors: [ Pancakse ]
+description: Its in the name.
+# Folia support = maybe idk
